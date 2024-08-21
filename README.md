@@ -36,11 +36,16 @@ Compile o projeto
   gcc main.c -o Programa
 ```
 
-Execute o projeto
+Execute o projeto (Pelo VSCode)
 
 ```bash
   ./Programa.exe (Windows)
   ./Programa (Linux/MAC)
+```
+Execute o projeto (Pelo Prompt de Comando)
+
+```bash
+  Programa.exe
 ```
 
 
